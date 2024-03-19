@@ -38,3 +38,5 @@ jspm_packages
 .next
 # .ds_store files
 .DS_Store
+# .env files
+.env
